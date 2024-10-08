@@ -3157,7 +3157,7 @@ td:last-child {
 }
 
 .s-header__menu-links .current a {
-    color: white;
+    color: hsla(340, 55%, 55%, 1);
 }
 
 /* --------------------------------------------------------------------
